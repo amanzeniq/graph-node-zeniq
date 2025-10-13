@@ -16,4 +16,4 @@ stable-hash_legacy = { git = "https://github.com/graphprotocol/stable-hash", bra
 defer = "0.1"
 parking_lot = "0.12"
 anyhow = "1.0"
-async-recursion = "1.0.5"
+async-recursion = "1.1.1"
