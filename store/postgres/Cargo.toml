@@ -37,7 +37,7 @@ git-testament = "0.2.5"
 itertools = "0.12.0"
 pin-utils = "0.1"
 hex = "0.4.3"
-pretty_assertions = "1.4.0"
+pretty_assertions = "1.4.1"
 
 [dev-dependencies]
 clap = "3.2.25"
